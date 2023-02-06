@@ -10,8 +10,8 @@
 
 - [Abstract Data Types (ADT)](https://en.wikipedia.org/wiki/Abstract_data_type)
 - [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
-<!-- - Data structures are language dependant -->
 - [Advantages](https://www.softwaretestinghelp.com/data-structures-in-cpp/)
+<!-- - Data structures are language dependant -->
 
 ### Stacks vs Queues
 
@@ -35,8 +35,8 @@
 - Classification
 - Analysis of Algorithm Efficiency
 - Space vs Time
-<!-- - Algorithms language agnostic: (Pseudo code / C++ etc) -->
 - [Algorithms In STL](https://www.softwaretestinghelp.com/algorithms-in-stl/)
+<!-- - Algorithms language agnostic: (Pseudo code / C++ etc) -->
 
 ### Classification
 
