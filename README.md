@@ -1,30 +1,22 @@
 # Outline
 
-- Data structures & Abstract Data Types (ADT)
-- Algorithms
-- Course Mechanics?
+- Introduction to Data structures
+- Introduction to Algorithms
+- [Course Description](https://github.com/TT00FE39-3001/course-description)
 
 ---
 
-## Part 1
+## Part 1: Data Structures
 
 - [Abstract Data Types (ADT)](https://en.wikipedia.org/wiki/Abstract_data_type)
-- [Data Structures](https://en.wikipedia.org/wiki/Data_type)
-- Data structures are language dependant
-
-### [Data Structures In C++](https://www.softwaretestinghelp.com/data-structures-in-cpp/)
-
-- Introduction
-- Classification
+- [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
+<!-- - Data structures are language dependant -->
 - [Advantages](https://www.softwaretestinghelp.com/data-structures-in-cpp/)
 
-### Stacks vs Queues (1/2)
+### Stacks vs Queues
 
 - [Stack Data Structure In C++ With ARRAY/Linked list implementation](https://www.softwaretestinghelp.com/stack-in-cpp/)
 - [Queue Data Structure In C++ With Illustration](https://www.softwaretestinghelp.com/queue-in-cpp/)
-
-### Stacks vs Queues (2/2)
-
 - [Data structures 101: Stacks vs Queues](https://www.educative.io/blog/data-structures-stack-queue-java-tutorial)
 - [Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [FIFO](<https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)>)
@@ -38,17 +30,12 @@
 
 ---
 
-## Part 2
+## Part 2: Algorithms
 
 - Classification
 - Analysis of Algorithm Efficiency
 - Space vs Time
-- Algorithms language agnostic
-
-  - Pseudo code / C++ etc
-
-- [Introduction To Searching Algorithms In C++](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/)
-- [Introduction To Sorting Techniques In C++](https://www.softwaretestinghelp.com/sorting-techniques-in-cpp/)
+<!-- - Algorithms language agnostic: (Pseudo code / C++ etc) -->
 - [Algorithms In STL](https://www.softwaretestinghelp.com/algorithms-in-stl/)
 
 ### Classification
@@ -72,7 +59,7 @@
 - Same tools
 - Space and Time Trade-Offs
 
-### Tools
+### Visualizations
 
 - [Algorithm Visualizations 1](https://www.youtube.com/playlist?list=PLlzjt-kuLwlo6QuXHSZCkITkfn9M2yHg1)
 - [Algorithm Visualizations 2](https://gbhat.com/algorithms/selection_sort.html)
